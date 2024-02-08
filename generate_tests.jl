@@ -1,5 +1,3 @@
-# Łukasz Ciświcki
-
 using SparseArrays
 using Plots
 include("blocksys.jl")

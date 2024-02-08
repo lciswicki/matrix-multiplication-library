@@ -1,5 +1,3 @@
-# Łukasz Ciświcki
-
 module blocksys
     using SparseArrays
     export gauss_method

@@ -1,5 +1,3 @@
-# Łukasz Ciświcki
-
 using SparseArrays
 using Test
 include("blocksys.jl")
